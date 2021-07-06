@@ -2,3 +2,7 @@ C: covid cases
 D: the number of death
 R: the number of recovered
 A: active cases
+
+
+Any question please contact
+Peter.MailBox@Yahoo.com
